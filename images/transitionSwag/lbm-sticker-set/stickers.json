@@ -1,0 +1,16 @@
+{
+  "name": "lbm-sticker-set",
+  "artist": "SA64ds, ShultzNG, FrenchOtter",
+  "stickers": {
+    "sa64dssmb": ["sa64smb1","sa64smb2","sa64smb3","sa64smb4","sa64smb5","sa64smb6","sa64smb7","sa64smb8","sa64smb9"],
+    "sa64dspproject": ["sa64pproject1","sa64pproject2"],
+    "shultzmario": ["placeholder"],
+    "frenchiefnf": ["placeholder"]
+  },
+  "stickerPacks": {
+    "sa64ds": ["sa64dssmb", "sa64dspproject"],
+    "shultz": ["shultzmario"],
+    "frenchie": ["frenchiefnf"],
+    "all": ["sa64dssmb", "sa64dspproject", "shultzmario", "frenchiefnf"]
+  }
+}
