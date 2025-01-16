@@ -1,0 +1,14 @@
+Low-Bit Mayhem
+SA64::sa64::I directed the mod and did pretty much everything that isn't listed below::https://bsky.app/profile/sa64ds.github.io::#2857c6
+ShultzNG::shultz::He did the original animations for SA64, half of which became alts.::https://bsky.app/profile/shultzyng.bsky.social::#5f0c44
+Stawii::staw::He composed the original version of Bit-Beat and let me use it here.::https://x.com/iiwats::#3c3934
+FrenchOtter::frenchie::He made SA64's non-pixel sprites and icon.::https://www.youtube.com/@frenchotter::#8f8dff
+
+Scripts Used
+Alicedotlua::guy::In-Song Credits::https://twitter.com/alicedotlua::#FFFFFF
+
+Special Thanks
+Plush::plush::She assisted me a lot with getting the custom events I needed::https://bsky.app/profile/plushh.bsky.social::0xFFA500
+Super Funkin' Galaxy::mario::I stole a few scripts (with some fixes to work with Psych 1.0), the non-pixel BF alts, and icons from them.::https://gamebanana.com/mods/444759::#f01419
+OwenTheMC::owen::Being a cool guy and letting me meet the people I know today::https://twitter.com/OwenTheMC::0xFF84C6F5
+and YOU!::guy::...for checking out this one-shot! I hope you enjoy playing it!::https://www.youtube.com/watch?v=jXPF0Bm4u9w::#FFFFFF

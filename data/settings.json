@@ -1,0 +1,43 @@
+[
+	{
+		"description": "Changes the health bar colors in the SMB1 section of Bit-Beat",
+		"value": "B&W",
+		"save": "smb1hbc",
+		"options": [
+			"Off",
+			"B&W",
+			"V-Slice",
+			"V-Slice NES",
+			"SA64"
+		],
+		"type": "string",
+		"format": "%v",
+		"name": "SMB1 Health Bar Colors"
+	},
+	{
+		"description": "When disabled, the health bar remains the same when transitioning to the full-drawn section.",
+		"value": true,
+		"save": "changehbc",
+		"type": "bool",
+		"name": "Change Health Bar Color"
+	},
+	{
+		"description": "Changes the time bar colors in Bit-Beat",
+		"value": "Off",
+		"save": "timebarc",
+		"options": [
+			"Off",
+			"SA64"
+		],
+		"type": "string",
+		"format": "%v",
+		"name": "Time Bar Colors"
+	},
+	{
+		"description": "When disabled, the V-Slice stickers will be used instead. (Only does anything on P-Slice.)",
+		"value": true,
+		"save": "lbm-sticker-temp",
+		"type": "bool",
+		"name": "LBM Sticker Set"
+	}
+]
