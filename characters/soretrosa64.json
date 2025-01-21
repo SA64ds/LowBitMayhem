@@ -28,7 +28,7 @@
 			"offsets": [0, 0],
 			"loop": false,
 			"fps": 12,
-			"anim": "missLEFT",
+			"anim": "singRIGHTmiss",
 			"indices": [],
 			"name": "singLEFT-miss"
 		},
@@ -36,7 +36,7 @@
 			"offsets": [0, 0],
 			"loop": false,
 			"fps": 12,
-			"anim": "missDOWN",
+			"anim": "singDOWNmiss",
 			"indices": [],
 			"name": "singDOWN-miss"
 		},
@@ -44,7 +44,7 @@
 			"offsets": [0, 0],
 			"loop": false,
 			"fps": 12,
-			"anim": "missUP",
+			"anim": "singUPmiss",
 			"indices": [],
 			"name": "singUP-miss"
 		},
@@ -52,7 +52,7 @@
 			"offsets": [0, 0],
 			"loop": false,
 			"fps": 12,
-			"anim": "missRIGHT",
+			"anim": "singLEFTmiss",
 			"indices": [],
 			"name": "singRIGHT-miss"
 		},

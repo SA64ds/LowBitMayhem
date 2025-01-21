@@ -1,11 +1,11 @@
 {
-	"storyName": "Bit-Beat",
-	"difficulties": "",
+	"storyName": "Low-Bit Mayhem",
+	"difficulties": "Normal, Hard",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Bit-Beat",
@@ -22,6 +22,6 @@
 		"",
 		""
 	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "Bit-Beat"
+	"weekName": "Bit-Beat",
+	"hiddenUntilUnlocked": false
 }

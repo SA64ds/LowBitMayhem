@@ -1,0 +1,25 @@
+Sticky Fixes (Version 1.5) - 1/?/2025
+- Addition: New stickers (by Frenchie)
+- Addition: Option to choose whose stickers are used (or disable them entirely)
+- Addition: Bit-Beat is now in Story Mode
+- Addition: 4:3 script (can be disabled via options)
+- Addition: Option to keep 4:3 on the full-drawn section of Bit-Beat
+- Addition: Title Bar now changes to "Friday Night Funkin': Low-Bit Mayhem" when using this mod.
+- Addition: New SA64 Pause & Game Over Music
+- Addition: Added credits that were missing (oops...)
+- Removal: Easy difficulty on the week (wasn't used anyways)
+- Removal: Bit-Beat FC Achievement being obtainable with Free Play (work-around isn't neccessary anymore, since Bit-Beat is in Story Mode)
+- Removal: True/False setting for stickers, since the actual setting is in place.
+- Bugfix: Crowd animation now plays during Bit-Beat
+- Bugfix: Miss animations now play
+- Tweak: GF's animation was shorten a bit
+- Tweak: Credits in Bit-Beat now uses the SMB1 font
+- Tweak: Some event tweaks in Bit-Beat
+- Tweak: Pause song changes back to the normal one on the full-drawn section of Bit-Beat.
+- Tweak: Secret song uses a different method of access, instead of just using the reset button.
+- Tweak: Secret song achievement requires you to actually enter the song to obtain it.
+- Tweak: SMB1 Stage tweaked a bit to work better with 4:3
+- Tweak: Stage assets organized a bit better
+
+Release (Version 1) - 1/13/2025
+- Intital release

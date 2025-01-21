@@ -62,6 +62,20 @@ local songData = { -- The main table that contains the songs you want credits on
         },
     },
 
+    ['Toad Brigade (SA64 Cover)'] = { -- This name NEEDS to be the name in the direct JSON/chart (e.g: dad-battle).
+    ["songName"] = "Toad Brigade (SA64 Cover)", -- The display name of the song.
+    ["length"] = 4, -- The length the box is on screen.
+    ["boxColor"] = "#000000", -- Color of Box (IN HEX).
+    ["textColor"] = "#FFFFFF", -- Color of Text (IN HEX).
+    ["credits"] = {
+        ["Composer"] = "RemTweaking",
+        ["Artist"] = "Pixlexia, malorwawa, FrenchOtter",
+        ["Charter"] = "SPG64",
+        ["Cover"] = "SA64ds",
+        ["Vocal Recreation"] = "SonicFanBoy",
+    },
+},
+
 }
 
 function createBox(songTable) -- Creates the main box container

@@ -1,1 +1,1 @@
-Removes all pixel elements that aren't changable with existing events
+Removes all pixel elements in Bit-Beat that aren't changable with existing events

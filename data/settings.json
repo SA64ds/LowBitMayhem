@@ -1,8 +1,23 @@
 [
 	{
+		"description": "If disabled, the game will remain in 16:9.",
+		"save": "43ratio",
+		"value": true,
+		"type": "bool",
+		"name": "4:3 Aspect Ratio"
+	},
+	{
+		"description": "If enabled, it keeps the 4:3 ratio when transitioning to the full-drawn section.",
+		"save": "keep43",
+		"value": false,
+		"type": "bool",
+		"name": "Keep 4:3"
+	},
+	{
 		"description": "Changes the health bar colors in the SMB1 section of Bit-Beat",
-		"value": "B&W",
 		"save": "smb1hbc",
+		"value": "B&W",
+		"type": "string",
 		"options": [
 			"Off",
 			"B&W",
@@ -10,34 +25,40 @@
 			"V-Slice NES",
 			"SA64"
 		],
-		"type": "string",
-		"format": "%v",
-		"name": "SMB1 Health Bar Colors"
+		"name": "SMB1 Health Bar Colors",
+		"format": "%v"
 	},
 	{
 		"description": "When disabled, the health bar remains the same when transitioning to the full-drawn section.",
-		"value": true,
 		"save": "changehbc",
+		"value": true,
 		"type": "bool",
 		"name": "Change Health Bar Color"
 	},
 	{
 		"description": "Changes the time bar colors in Bit-Beat",
-		"value": "Off",
 		"save": "timebarc",
+		"value": "Off",
+		"type": "string",
 		"options": [
 			"Off",
 			"SA64"
 		],
-		"type": "string",
-		"format": "%v",
-		"name": "Time Bar Colors"
+		"name": "Time Bar Colors",
+		"format": "%v"
 	},
 	{
-		"description": "When disabled, the V-Slice stickers will be used instead. (Only does anything on P-Slice.)",
-		"value": true,
-		"save": "lbm-sticker-temp",
-		"type": "bool",
-		"name": "LBM Sticker Set"
+		"description": "If the LBM Sticker Set is enabled and whose stickers are used. (P-Slice Only)",
+		"save": "lbm-sticker-set",
+		"value": "All",
+		"type": "string",
+		"options": [
+			"Off",
+			"All",
+			"SA64",
+			"FrenchOtter"
+		],
+		"name": "LBM Sticker Set",
+		"format": "%v"
 	}
 ]
