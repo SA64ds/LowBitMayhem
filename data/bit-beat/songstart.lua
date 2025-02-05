@@ -33,6 +33,13 @@ end
 
 -- Changes the Pause Menu Music
     setPropertyFromClass("substates.PauseSubState", "songName", "breakfast-smb1")
+
+-- Changes death animation and music, just in case
+setPropertyFromClass('substates.GameOverSubstate', 'characterName', 'bf-pixel-dead');
+setPropertyFromClass('substates.GameOverSubstate', 'deathSoundName', 'fnf_loss_sfx-pixel');
+setPropertyFromClass('substates.GameOverSubstate', 'loopSoundName', 'gameOver-pixel');
+setPropertyFromClass('substates.GameOverSubstate', 'endSoundName', 'gameOverEnd-pixel');	
+
 end
 
 -- Starts the crowd sound when the countdown begins

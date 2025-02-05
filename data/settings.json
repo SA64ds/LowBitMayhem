@@ -1,23 +1,22 @@
 [
 	{
-		"description": "If disabled, the game will remain in 16:9.",
-		"save": "43ratio",
+		"description": "If disabled, the game will remain in 16:9. (seemingly doesn't do anything on mobile)",
 		"value": true,
+		"save": "43ratio",
 		"type": "bool",
 		"name": "4:3 Aspect Ratio"
 	},
 	{
-		"description": "If enabled, it keeps the 4:3 ratio when transitioning to the full-drawn section.",
-		"save": "keep43",
+		"description": "If enabled, it keeps the 4:3 ratio when transitioning to the full-drawn section. (Only applies if 4:3 Aspect Ratio is enabled).",
 		"value": false,
+		"save": "keep43",
 		"type": "bool",
 		"name": "Keep 4:3"
 	},
 	{
-		"description": "Changes the health bar colors in the SMB1 section of Bit-Beat",
-		"save": "smb1hbc",
+		"description": "Changes the health bar colors in the SMB1 section of Bit-Beat.",
 		"value": "B&W",
-		"type": "string",
+		"save": "smb1hbc",
 		"options": [
 			"Off",
 			"B&W",
@@ -25,40 +24,45 @@
 			"V-Slice NES",
 			"SA64"
 		],
-		"name": "SMB1 Health Bar Colors",
-		"format": "%v"
+		"type": "string",
+		"format": "%v",
+		"name": "SMB1 Health Bar Colors"
 	},
 	{
 		"description": "When disabled, the health bar remains the same when transitioning to the full-drawn section.",
-		"save": "changehbc",
 		"value": true,
+		"save": "changehbc",
 		"type": "bool",
 		"name": "Change Health Bar Color"
 	},
 	{
-		"description": "Changes the time bar colors in Bit-Beat",
-		"save": "timebarc",
+		"description": "Changes the time bar colors in Bit-Beat.",
 		"value": "Off",
-		"type": "string",
+		"save": "timebarc",
 		"options": [
 			"Off",
 			"SA64"
 		],
-		"name": "Time Bar Colors",
-		"format": "%v"
+		"type": "string",
+		"format": "%v",
+		"name": "Time Bar Colors"
 	},
 	{
 		"description": "If the LBM Sticker Set is enabled and whose stickers are used. (P-Slice Only)",
+		"value": "All+",
 		"save": "lbm-sticker-set",
-		"value": "All",
-		"type": "string",
 		"options": [
 			"Off",
 			"All",
+			"All+",
+			"Only Modded",
+			"Only Modded+",
 			"SA64",
+			"ShultzNG",
 			"FrenchOtter"
 		],
-		"name": "LBM Sticker Set",
-		"format": "%v"
+		"type": "string",
+		"format": "%v",
+		"name": "LBM Sticker Set"
 	}
 ]

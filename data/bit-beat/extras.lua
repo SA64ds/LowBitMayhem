@@ -15,7 +15,7 @@ function onUpdate()
 
     if countretro == 5 then
         playSound("Pipe")
-        loadSong('SORETRO (SA64 Cover)', 0)
+        loadSong('SORETRO (SA64 Cover)', 1)
     end
 end
 

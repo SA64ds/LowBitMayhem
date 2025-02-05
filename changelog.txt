@@ -1,25 +1,33 @@
-Sticky Fixes (Version 1.5) - 1/?/2025
-- Addition: New stickers (by Frenchie)
-- Addition: Option to choose whose stickers are used (or disable them entirely)
+Sticky Fixes Pt.2 (Version 1.2) - 2/4/2025
+- Addition: New stickers by Shultz and me [P-Slice Only]
+- Addition: BF and GF stickers from V-Slice were added to the pack [P-Slice Only]
+- Addition: More sticker options added to settings [P-Slice Only]
+- Addition: New SA64 death animation and SFX
+- Tweak: The pixel BF death animation and audio is used during the pixel section of Bit-Beat, reverts to the normal ones during the full-drawn one.
+- Adjustment: Some settings have some additional claifications
+- Adjustment: One of the achievements' icon was updated (Hint: You might not have unlocked it yet... in fact, it took me till this update to unlock it myself)
+
+An Actual Hotfix (Version 1.1.1) - 1/30/2025
+- Bugfix: Removed the Lua script that throws a warning
+- Bugfix: Removed the shader that causes the character select on P-Slice to crash
+
+Sticky Fixes Pt.1 (Version 1.1) - 1/21/2025
+- Addition: New stickers (by Frenchie) [P-Slice Only]
+- Addition: Option to choose whose stickers are used (or disable them entirely) [P-Slice Only]
 - Addition: Bit-Beat is now in Story Mode
 - Addition: 4:3 script (can be disabled via options)
 - Addition: Option to keep 4:3 on the full-drawn section of Bit-Beat
 - Addition: Title Bar now changes to "Friday Night Funkin': Low-Bit Mayhem" when using this mod.
 - Addition: New SA64 Pause & Game Over Music
-- Addition: Added credits that were missing (oops...)
 - Removal: Easy difficulty on the week (wasn't used anyways)
 - Removal: Bit-Beat FC Achievement being obtainable with Free Play (work-around isn't neccessary anymore, since Bit-Beat is in Story Mode)
 - Removal: True/False setting for stickers, since the actual setting is in place.
 - Bugfix: Crowd animation now plays during Bit-Beat
-- Bugfix: Miss animations now play
 - Tweak: GF's animation was shorten a bit
 - Tweak: Credits in Bit-Beat now uses the SMB1 font
-- Tweak: Some event tweaks in Bit-Beat
 - Tweak: Pause song changes back to the normal one on the full-drawn section of Bit-Beat.
 - Tweak: Secret song uses a different method of access, instead of just using the reset button.
 - Tweak: Secret song achievement requires you to actually enter the song to obtain it.
-- Tweak: SMB1 Stage tweaked a bit to work better with 4:3
-- Tweak: Stage assets organized a bit better
 
 Release (Version 1) - 1/13/2025
 - Intital release
