@@ -22,7 +22,9 @@
 			"B&W",
 			"V-Slice",
 			"V-Slice NES",
-			"SA64"
+			"SA64",
+			"Undertale",
+			"Undertale Alt"
 		],
 		"type": "string",
 		"format": "%v",
@@ -36,12 +38,13 @@
 		"name": "Change Health Bar Color"
 	},
 	{
-		"description": "Changes the time bar colors in Bit-Beat.",
+		"description": "Changes time bar colors in Bit-Beat.",
 		"value": "Off",
 		"save": "timebarc",
 		"options": [
 			"Off",
-			"SA64"
+			"SA64",
+			"Undertale"
 		],
 		"type": "string",
 		"format": "%v",
@@ -49,7 +52,7 @@
 	},
 	{
 		"description": "If the LBM Sticker Set is enabled and whose stickers are used. (P-Slice Only)",
-		"value": "All+",
+		"value": "All",
 		"save": "lbm-sticker-set",
 		"options": [
 			"Off",

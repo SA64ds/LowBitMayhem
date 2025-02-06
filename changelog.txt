@@ -1,8 +1,16 @@
+Oops, Another Update (Version 1.2.1) - 2/6/2025
+- Addition: New Color Options for Health and Time Bar
+- Bugfix: Easy Chart is accessible (also fixes the secret song)
+- Bugfix: Stickers are put in the right place
+- Bugfix: Pixel music works properly
+- Tweak: Positions of SA64 and BF in Bit-Beat were shifted to look better (I think)
+
 Sticky Fixes Pt.2 (Version 1.2) - 2/4/2025
 - Addition: New stickers by Shultz and me [P-Slice Only]
 - Addition: BF and GF stickers from V-Slice were added to the pack [P-Slice Only]
 - Addition: More sticker options added to settings [P-Slice Only]
 - Addition: New SA64 death animation and SFX
+- Addition: Easy Chart for Bit-Beat
 - Tweak: The pixel BF death animation and audio is used during the pixel section of Bit-Beat, reverts to the normal ones during the full-drawn one.
 - Adjustment: Some settings have some additional claifications
 - Adjustment: One of the achievements' icon was updated (Hint: You might not have unlocked it yet... in fact, it took me till this update to unlock it myself)

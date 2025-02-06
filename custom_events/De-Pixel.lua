@@ -22,6 +22,10 @@ function onEvent(name,value1,value2)
                 setHealthBarColors('#b21030', '#71f341')
             elseif getModSetting("smb1hbc")=="SA64" then
                 setHealthBarColors('#2800ba', '#b21030')
+            elseif getModSetting("smb1hbc")=="Undertale" then
+                setHealthBarColors('red', 'yellow')
+            elseif getModSetting("smb1hbc")=="Undertale Alt" then
+                setHealthBarColors('yellow', 'red')
             end
         end
 

@@ -12,10 +12,10 @@
 			[
 				["Flash Camera", "1", ""],
 				["Change Stage", "normalstage", "lua"],
-				["MoveCharacterX", "bf", "800"],
+				["MoveCharacterX", "bf", "900"],
 				["MoveCharacterX", "gf", "400"],
-				["MoveCharacterX", "dad", "100"],
-				["MoveCharacterY", "bf", "100"],
+				["MoveCharacterX", "dad", "150"],
+				["MoveCharacterY", "bf", "80"],
 				["MoveCharacterY", "gf", "75"],
 				["MoveCharacterY", "dad", "100"],
 				["Change Character", "BF", "bf-galaxy"],

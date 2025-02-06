@@ -24,12 +24,25 @@ elseif getModSetting("smb1hbc")=="V-Slice NES" then
     setHealthBarColors('#b21030', '#71f341')
 elseif getModSetting("smb1hbc")=="SA64" then
     setHealthBarColors('#2800ba', '#b21030')
+elseif getModSetting("smb1hbc")=="Undertale" then
+    setHealthBarColors('red', 'yellow')
+elseif getModSetting("smb1hbc")=="Undertale Alt" then
+    setHealthBarColors('yellow', 'red')
 end
 
 -- Sets the time bar color based on the setting
 if getModSetting("timebarc")=="SA64" then
     setTimeBarColors("#2800ba", "#b21030")
+elseif getModSetting("timebarc")=="Undertale" then
+    setTimeBarColors("yellow", "red")
 end
+
+-- Suppose to change the Health and Time Bar border colors to white without replacing the vanilla borders, but it isn't working fsr
+
+--if getModSetting("barcolorwhite")=="On" or getModSetting("barcolorwhite")=="Changing" then
+--    loadGraphic('playState.healthBar', 'healthBarinverted');
+--    loadGraphic('playState.timeBar', 'timeBarinverted');
+--end
 
 -- Changes the Pause Menu Music
     setPropertyFromClass("substates.PauseSubState", "songName", "breakfast-smb1")
