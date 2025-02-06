@@ -1,0 +1,36 @@
+{
+	"songs": [
+		[
+			"SORETRO (SA64 Cover)",
+			"retromario",
+			[
+				255,
+				53,
+				53
+			]
+		],
+		[
+			"Toad Brigade (SA64 Cover)",
+			"captain",
+			[
+				255,
+				33,
+				33
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "SA64's Covers",
+	"weekName": "SA64's Covers",
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
