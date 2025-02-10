@@ -1,10 +1,10 @@
 {
 	"songRating": 4,
-	"allowNewTag": true,
+	"allowNewTag": false,
 	"freeplayPrevStart": 0,
 	"freeplayPrevEnd": 26.7,
 	"freeplaySongLength": 143.931,
 	"freeplayCharacter": "bf",
 	"albumId": "lbmvol1",
-	"altInstrumentalSongs": ""
+	"altInstrumentalSongs": "Bit-Beat (Pico Mix)"
 }

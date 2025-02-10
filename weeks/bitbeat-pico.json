@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"Bit-Beat (Pico Mix)",
+			"sa64",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Low-Bit Mayhem (Pico Mix)",
+	"weekName": "Bit-Beat (Pico Mix)",
+	"hideStoryMode": true,
+	"weekBefore": "bitbeat",
+	"startUnlocked": true
+}
