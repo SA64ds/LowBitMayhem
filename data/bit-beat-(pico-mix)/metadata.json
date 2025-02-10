@@ -1,8 +1,8 @@
 {
 	"songRating": 5,
 	"allowNewTag": true,
-	"freeplayPrevStart": 2,
-	"freeplayPrevEnd": 2.06,
+	"freeplayPrevStart": 0,
+	"freeplayPrevEnd": 26.7,
 	"freeplaySongLength": 143.931,
 	"freeplayCharacter": "pico",
 	"albumId": "lbmvol2",
