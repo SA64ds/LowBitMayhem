@@ -1,22 +1,23 @@
 [
 	{
 		"description": "If disabled, the game will remain in 16:9. (seemingly doesn't do anything on mobile)",
-		"value": true,
 		"save": "43ratio",
+		"value": true,
 		"type": "bool",
 		"name": "4:3 Aspect Ratio"
 	},
 	{
 		"description": "If enabled, it keeps the 4:3 ratio when transitioning to the full-drawn section. (Only applies if 4:3 Aspect Ratio is enabled).",
-		"value": false,
 		"save": "keep43",
+		"value": false,
 		"type": "bool",
 		"name": "Keep 4:3"
 	},
 	{
 		"description": "Changes the health bar colors in the SMB1 section of Bit-Beat.",
-		"value": "B&W",
 		"save": "smb1hbc",
+		"value": "B&W",
+		"type": "string",
 		"options": [
 			"Off",
 			"B&W",
@@ -26,34 +27,34 @@
 			"Undertale",
 			"Undertale Alt"
 		],
-		"type": "string",
-		"format": "%v",
-		"name": "SMB1 Health Bar Colors"
+		"name": "SMB1 Health Bar Colors",
+		"format": "%v"
 	},
 	{
 		"description": "When disabled, the health bar remains the same when transitioning to the full-drawn section.",
-		"value": true,
 		"save": "changehbc",
+		"value": true,
 		"type": "bool",
 		"name": "Change Health Bar Color"
 	},
 	{
 		"description": "Changes time bar colors in Bit-Beat.",
-		"value": "Off",
 		"save": "timebarc",
+		"value": "Off",
+		"type": "string",
 		"options": [
 			"Off",
 			"SA64",
 			"Undertale"
 		],
-		"type": "string",
-		"format": "%v",
-		"name": "Time Bar Colors"
+		"name": "Time Bar Colors",
+		"format": "%v"
 	},
 	{
 		"description": "If the LBM Sticker Set is enabled and whose stickers are used. (P-Slice Only)",
-		"value": "All",
 		"save": "lbm-sticker-set",
+		"value": "All",
+		"type": "string",
 		"options": [
 			"Off",
 			"All",
@@ -64,8 +65,7 @@
 			"ShultzNG",
 			"FrenchOtter"
 		],
-		"type": "string",
-		"format": "%v",
-		"name": "LBM Sticker Set"
+		"name": "LBM Sticker Set",
+		"format": "%v"
 	}
 ]

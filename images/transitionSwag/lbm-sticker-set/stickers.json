@@ -12,7 +12,8 @@
     "shultzsigma": ["sigmA64"],
     "frenchiefnf": ["SA64Sticker1","SA64Sticker2","SA64Sticker3"],
     "bf": ["bfSticker1", "bfSticker2", "bfSticker3"],
-    "gf": ["gfSticker1", "gfSticker2", "gfSticker3"]
+    "gf": ["gfSticker1", "gfSticker2", "gfSticker3"],
+    "pico": ["picoSticker1", "picoSticker2", "picoSticker3"]
   },
   "stickerPacks": {
     "sa64ds": ["sa64dssmb", "sa64dssmbdx", "sa64dspproject", "sa64dssmbbf"],
@@ -20,8 +21,8 @@
     "frenchie": ["frenchiefnf"],
     "onlymodded": ["sa64dssmb", "sa64dssmbbf", "shultzpixel", "frenchiefnf"],
     "onlymoddeddx": ["sa64dssmb", "sa64dssmbdx", "sa64dspproject", "sa64dssmbbf", "shultzpixel", "shultzlol", "shultzpartnersintime", "shultzsigma", "frenchiefnf"],
-    "all": ["sa64dssmb", "sa64dssmbbf", "shultzpixel", "frenchiefnf", "bf", "gf"],
-    "alldx": ["sa64dssmb", "sa64dssmbdx", "sa64dssmbbf", "sa64dspproject", "shultzpixel", "shultzlol", "shultzpartnersintime", "shultzsigma", "frenchiefnf", "bf", "gf"],
+    "all": ["sa64dssmb", "sa64dssmbbf", "shultzpixel", "frenchiefnf", "bf", "gf", "pico"],
+    "alldx": ["sa64dssmb", "sa64dssmbdx", "sa64dssmbbf", "sa64dspproject", "shultzpixel", "shultzlol", "shultzpartnersintime", "shultzsigma", "frenchiefnf", "bf", "gf", "pico"],
     "sigma": ["shultzsigma"]
   }
 }

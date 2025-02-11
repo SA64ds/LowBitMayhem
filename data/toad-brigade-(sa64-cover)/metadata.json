@@ -1,10 +1,10 @@
 {
 	"songRating": 7,
 	"allowNewTag": false,
-	"freeplayPrevStart": 2,
-	"freeplayPrevEnd": 2.06,
+	"freeplayPrevStart": 0,
+	"freeplayPrevEnd": 22.49,
 	"freeplaySongLength": 119.648,
 	"freeplayCharacter": "sa64",
-	"albumId": "sa64covers",
+	"albumId": "",
 	"altInstrumentalSongs": ""
 }

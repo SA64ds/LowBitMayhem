@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sa64",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Ugh..."
+		},
+		{
+			"sound": "dialogue/bftext",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Be ba boop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sa64",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Huh?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Heya!"
+		},
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "sa64",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Wait..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sa64",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Am I in... Friday Night Funkin?"
+		},
+		{
+			"sound": "dialogue/bftext",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Bah?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sa64",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Uh... It's nothing..."
+		},
+		{
+			"sound": "dialogue/bftext",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Be ba beh be ba!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sa64",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Wait... what did you just say?"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He's challenging you to a rap battle"
+		},
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "sa64",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Oh..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sa64",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "I mean... I guess I could give it a shot..."
+		},
+		{
+			"sound": "dialogue/bftext",
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yeah!"
+		}
+	]
+}
