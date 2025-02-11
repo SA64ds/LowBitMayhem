@@ -1,11 +1,16 @@
 Low-Bit Mayhem
-SA64::sa64::It's a me! I directed the mod and did pretty much everything that isn't listed below::https://bsky.app/profile/sa64ds.github.io::#2857c6
+SA64ds::sa64::It's a me! I directed the mod and did pretty much everything that isn't listed below.::https://bsky.app/profile/sa64ds.github.io::#2857c6
 Artists
-ShultzNG::shultz::He did the original animations for SA64, half of which became alts. He also did some stickers used in the sticker pack.::https://bsky.app/profile/shultzyng.bsky.social::#5f0c44
+ShultzNG::shultz::He did the new stage for Bit-Beat. He also did some stickers used in the sticker pack.::https://bsky.app/profile/shultzyng.bsky.social::#5f0c44
 FrenchOtter::frenchie::He made SA64's non-pixel sprites and icon, as well as some stickers for the sticker pack.::https://www.youtube.com/@frenchotter::#8f8dff
+Pixel Artists
+ShultzNG::shultz::He did the original animations for SA64, half of which became alts.::https://bsky.app/profile/shultzyng.bsky.social::#5f0c44
 Composers
 Stawii::staw::He composed the original version of Bit-Beat and let me use it here.::https://bsky.app/profile/staw.bsky.social::#3c3934
-Cryoptera::cryo::He composed the Bit-Beat (Pico Mix)::https://bsky.app/profile/cryoptera.bsky.social::#3c3934
+Cryoptera::cryo::He composed Bit-Beat (Pico Mix)::https://bsky.app/profile/cryoptera.bsky.social::#FFFFFF
+Charters
+Timson::timson::He charted ____::https://bsky.app/profile/timsondry.bsky.social::#FFFFFF
+Charaster::chara::They charted ____::https://bsky.app/profile/charaster.bsky.social::#FFFFFF
 Chormatic
 RykerTheStriker::ryker::He made the SA64 chromatic that is used throughout the mod.::https://bsky.app/profile/rykerthestriker.bsky.social::#00ff00
 
