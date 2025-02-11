@@ -1442,7 +1442,7 @@
 	"gameOverEnd": "gameOverEnd-pixel",
 	"song": "Bit-Beat",
 	"needsVoices": true,
-	"stage": "bbStage",
+	"stage": "stage-smb",
 	"speed": 1.6,
 	"bpm": 140,
 	"format": "psych_v1_convert"

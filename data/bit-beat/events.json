@@ -11,7 +11,7 @@
 			97714.2857142857,
 			[
 				["Flash Camera", "1", ""],
-				["Change Stage", "normalstage", "lua"],
+				["Change Stage", "stage-sa64", "lua"],
 				["MoveCharacterX", "bf", "900"],
 				["MoveCharacterX", "gf", "400"],
 				["MoveCharacterX", "dad", "150"],

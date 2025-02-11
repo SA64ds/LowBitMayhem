@@ -53,13 +53,14 @@ setPropertyFromClass('substates.GameOverSubstate', 'deathSoundName', 'fnf_loss_s
 setPropertyFromClass('substates.GameOverSubstate', 'loopSoundName', 'gameOver-pixel');
 setPropertyFromClass('substates.GameOverSubstate', 'endSoundName', 'gameOverEnd-pixel');	
 
+counter = 3
+
 end
 
--- Starts the crowd sound when the countdown begins
-function onStartCountdown()
-    playSound("smas_chat", 0.75, "crowdchat", false)
-    counter=3
-end
+-- Starts the crowd sound when the countdown begins (disabled until we can get it to work with the dialogue)
+--function onCountdownTick(1)
+--    playSound("smas_chat", 0.75, "crowdchat", false)
+--end
 
 -- In theory, starts making the crowd sound fade-out when the countdown hits GO!
 function onCountdownTick(counter)
