@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"Dad Battle (SA64 Mix)",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"sa64",
+		""
+	],
+	"storyName": "Daddy Dearest",
+	"weekName": "Week 1 (SA64 Mix)",
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
